@@ -7,12 +7,23 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+I love to cook, and these days I think everyone has to get used to some cooking. Often times we look for recipes online and start a collection of favorites...Or at least the website URLS. Difficult to shop from or choose recipes from that. I believe a website that would allow folks to input thier own recipes and or the URL's of other recipes to fill in thier favorites and have nice output views to show what they like or what grocery shopping would allow for what recipes.
 ### Features
-Include Features here
+IUser Login: Users would be able to create accounts and log in tothe application. Each user would have a profile page.
+Add Recipes:
+Search Recipes:
+Add Categories for recipes:
+Search Categores:
+Paste Recipe URL to fill out add recipe form:
+view lists of favorite recipes:
+Select certain ingredients and see what recipes have those:
+Select a number to represent a number of recipes that share ingredients and show a grocery shopping list:
 ### Technologies
-Include Technologies here
-### What I'll Have to Learn
+Java
+Spring Boot
+MySQL
+Hibernate
+Thymeleaf templates### What I'll Have to Learn
 Include what you will need to learn here
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/WZ4Y51sL/recipe-box-and-grocery-recommend
